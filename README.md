@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/deepak539/Time-tracking-dashboard)
+- Live Site URL: (https://deepak539.github.io/Time-tracking-dashboard/)
 
 
 ### Built with
@@ -53,14 +53,9 @@ Users should be able to:
 - Media queries
 - JavaScript
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 -grid properties
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-*
 
 ### Continued development
 
@@ -73,6 +68,6 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ## Author
 
-- Website - [Time tracking dashboard](https://www.your-site.com)
+- Website - [Time tracking dashboard](https://deepak539.github.io/Time-tracking-dashboard/)
 - Frontend Mentor - [@deepak539](https://www.frontendmentor.io/profile/deepak539)
 - Twitter - [@DepakAsnani17](https://twitter.com/DeepakAsnani17)
